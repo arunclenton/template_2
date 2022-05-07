@@ -11,7 +11,7 @@
 }
 #column1{
     float: left;
-    background-color: rgb(44, 44, 194);
+    background-color: rgb(2, 2, 54);
     height: 100%;
     width: 390px;
     position: fixed;
@@ -58,20 +58,60 @@
     padding-bottom: 4%;
     margin-left: 10px;
 }
+.microsoft{
+    width: 90%;
+    background-color:  rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.project{
+    width: 80%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
+}
 .excellant{
     margin-left: 280px;
     padding-top: 1%;
     padding-bottom: 2%;
+}
+.window{
+    width: 90%;
+    background-color: rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.server{
+    width: 70%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
 }
 .verygood{
     margin-left: 270px;
     padding-top: 1%;
     padding-bottom: 2%;
 }
+.linux{
+    width: 90%;
+    background-color:  rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.unix{
+    width: 65%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
+}
 .vgood{
     margin-left: 270px;
     padding-top: 1%;
     padding-bottom: 2%;
+}
+.microsoft{
+    width: 90%;
+    background-color:  rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.excel{
+    width: 50%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
 }
 .good{
     margin-left: 310px;
@@ -84,21 +124,60 @@
     padding-bottom: 2%;
     margin-left: 10px;
 }
+.tamil{
+    width: 90%;
+    background-color:  rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.inter{
+    width: 85%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
+}
+.english{
+    width: 90%;
+    background-color: rgb(8, 8, 22);
+    margin-left: 10px;
+}
+.basic{
+    width: 60%;
+    background-color: rgb(243, 243, 250);
+    padding: 10px 10px;
+}
+.language p{
+    color: rgb(243, 243, 250);
+    font-size: 20px;
+    margin-left: 270px;
+
+}
 #column2{
     float: right;
     margin: 0px 0px 0px 410px;
 }
+.senior{
+    font-size: 30px;
+    color: rgb(16, 46, 146);
+}
+.master{
+    font-size: 30px;
+    color: rgb(16, 46, 146);
+}
+.case{
+    font-size: 30px;
+    color: rgb(16, 46, 146);
+}
+.deve{
+    font-size: 30px;
+    color: rgb(16, 46, 146);
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .para{
     padding-top: 2%;
-    font-size: 20px;
-}
-#column2 h3{
-    color: rgb(16, 46, 146);
     padding-bottom: 2%;
-    padding-top: 2%;
-    font-size: 25px;
-    margin-right: 50px;
-    border-style: solid;
+    font-size: 20px;
 }
 #column2 h4{
 margin-left: 110px;
@@ -107,16 +186,44 @@ padding-top: 2%;
 }
 ul{
     margin-left: 115px;
-    padding-bottom: 1%;
-    font-size: 20px;
+    font-size: 23px;
     line-height: 1;
 }
+.exp1{
+    margin: 30px 0px 0px 0px;
+    padding-bottom: 20px;
+}
+.exp13{
+    margin: -45px 0px 0px 0px;
+}
+.junior{
+    margin: 30px 0px 0px 0px;
+}
+.exp21{
+    margin: -45px 0px 0px 0px;
+}
+.junior h4{
+    padding-top: 2;
+    margin-bottom: 2;
+}
 .exp1 h5{
-    margin-left: 120px;
-   padding-top: 2px;
+    margin-left:120px;
+    font-size: 30;
+    padding-top: 6%;
+}
+.exp1 h6{
+    
+}
+.certifi h5{
+    margin-left:10px;
+    margin-top: 3px;
+    font-size: 30;
 }
 .certifi h6{
     margin-left: 100px;
     font-size: 20px;
-    margin-top: 1px;
+    margin-bottom: 2%;
+}
+.certifi h5{
+    margin-top: -4px;
 }
