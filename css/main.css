@@ -11,7 +11,7 @@
 }
 #column1{
     float: left;
-    background-color: rgb(2, 2, 54);
+    background-color: rgb(5, 5, 99);
     height: 100%;
     width: 390px;
     position: fixed;
@@ -21,7 +21,7 @@
 }
 #column1 h3{
     color: rgb(243, 243, 250);
-    background-color: rgb(19, 19, 97);
+    background-color: rgb(2, 2, 54);
     min-height: auto;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -179,51 +179,39 @@ hr{
     padding-bottom: 2%;
     font-size: 20px;
 }
-#column2 h4{
-margin-left: 110px;
-font-size: 150%;
-padding-top: 2%;
+.experience h4{
+    color: black;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-bottom: ;
+}
+.experience h5{
+    margin-bottom: -28px;
+    margin-left: 120px;
+    margin-top: 15px;
 }
 ul{
-    margin-left: 115px;
-    font-size: 23px;
-    line-height: 1;
-}
-.exp1{
-    margin: 30px 0px 0px 0px;
-    padding-bottom: 20px;
-}
-.exp13{
-    margin: -45px 0px 0px 0px;
-}
-.junior{
-    margin: 30px 0px 0px 0px;
-}
-.exp21{
-    margin: -45px 0px 0px 0px;
-}
-.junior h4{
-    padding-top: 2;
-    margin-bottom: 2;
-}
-.exp1 h5{
-    margin-left:120px;
-    font-size: 30;
-    padding-top: 6%;
-}
-.exp1 h6{
-    
-}
-.certifi h5{
-    margin-left:10px;
-    margin-top: 3px;
-    font-size: 30;
-}
-.certifi h6{
-    margin-left: 100px;
+    margin-left: 140px;
+    margin-bottom: 30px;
     font-size: 20px;
-    margin-bottom: 2%;
+    line-height: 1.5;
 }
-.certifi h5{
-    margin-top: -4px;
+.edu1 h4{
+    color: black;
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: 0px 0px;
+    margin-bottom: -15px;
 }
+.certificate h6{
+    margin-left: 120px;
+    margin-top: -20px;
+    line-height: 2;
+}
+.intersts h6{
+    margin-left: 120px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+
